@@ -1,6 +1,6 @@
-**GET edges**
+**GET all edges**
 ----
-  Returns a json object of all edges
+  Returns an array with json objects of all edges
 
 * **URL**
 
@@ -67,3 +67,5 @@
     }
   }
   ```
+
+* **Notes:**

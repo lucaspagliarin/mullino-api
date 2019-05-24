@@ -1,4 +1,12 @@
 # mullino-api
-Servidor REST para atender a pizzaria Mullino
 
-[GET edges](docs/GETEDGES.md)
+REST SERVER created for Mullino Pizzaria &copy;
+
+- Pizzas
+    - [Edges](docs/EDGES.md)
+        - [GET all edges](docs/GETEDGES.md)
+        - [GET one edge](docs/GETEDGE.md)
+        - [CREATE edge](docs/CREATEEDGE.md)
+        - [UPDATE edge](docs/UPDATEEDGE.md)
+        - [DELETE edge](docs/DELETEEDGE.md)
+
