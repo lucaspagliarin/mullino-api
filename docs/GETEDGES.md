@@ -1,4 +1,4 @@
-[docs](../README.md#mullino-api) > [Edges](EDGES.md) > GET all edges
+[docs](../README.md#mullino-api) > [Edges](EDGES.md#edges) > GET all edges
 
 **GET all edges**
 ----
