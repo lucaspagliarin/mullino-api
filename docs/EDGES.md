@@ -1,3 +1,5 @@
+[docs](../README.md) > Edges
+
 # Edges
 
 All edges functionalities.

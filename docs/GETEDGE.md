@@ -1,3 +1,5 @@
+[docs](../README.md) > [Edges](EDGES.md) > GET one edge
+
 **GET one edge**
 ----
   Returns a json object of the corresponding ID's edge

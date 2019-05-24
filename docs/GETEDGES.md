@@ -1,3 +1,5 @@
+[docs](../README.md) > [Edges](EDGES.md) > GET all edges
+
 **GET all edges**
 ----
   Returns an array with json objects of all edges
