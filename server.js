@@ -22,8 +22,8 @@ db.once('open', () => console.log('Connected to DB'))
 // enabling json usage
 app.use(express.json())
 
-const bordasRouter = require('./routes/bordas')
-app.use('/bordas', bordasRouter)
+const edgesRouter = require('./routes/edges')
+app.use('/edges', edgesRouter)
 
 app.listen(process.env.PORT, () => {
     console.log('Server Running');

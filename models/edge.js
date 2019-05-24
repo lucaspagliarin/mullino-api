@@ -1,7 +1,7 @@
 const mongoose = require('mongoose');
 const Schema = mongoose.Schema;
 
-const bordaSchema = new Schema({
+const edgeSchema = new Schema({
     name: {
         type: String,
         required: true
@@ -13,4 +13,4 @@ const bordaSchema = new Schema({
     }
 })
 
-module.exports = mongoose.model('Borda', bordaSchema);
+module.exports = mongoose.model('edge', edgeSchema);

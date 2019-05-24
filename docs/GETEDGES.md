@@ -1,10 +1,10 @@
-**GET Bordas**
+**GET edges**
 ----
-  Returns a json object of all bordas
+  Returns a json object of all edges
 
 * **URL**
 
-  /bordas
+  /edges
 
 * **Method:**
 
@@ -52,15 +52,15 @@
 
 * **Sample Call:**
   
-  `GET http://localhost:3001/bordas`
+  `GET http://localhost:3001/edges`
 
   or
   
   ```javascript
-  async function getBordas() {
+  async function getEdges() {
     try {
-      const bordas = await fetch('http://localhost:3001/bordas')
-      const data = await bordas.json()
+      const edges = await fetch('http://localhost:3001/edges')
+      const data = await edges.json()
       return data
     } catch (err) {
       console.error('error', err)
