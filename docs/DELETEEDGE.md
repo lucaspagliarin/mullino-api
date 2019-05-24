@@ -1,4 +1,4 @@
-[docs](../README.md#mullino-api) > [Edges](EDGES.md#edges) > DELETE edge
+[docs](../README.md#mullino-api) > [Pizza](PIZZASINFO.md#pizzas) >  [Edges](EDGES.md#edges) > DELETE edge
 
 **DELETE egde**
 ----
