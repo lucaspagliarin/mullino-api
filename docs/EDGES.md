@@ -1,4 +1,4 @@
-[docs](../README.md) > Edges
+[docs](../README.md#mullino-api) > Edges
 
 # Edges
 
