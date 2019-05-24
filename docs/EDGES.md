@@ -4,8 +4,8 @@
 
 All edges functionalities.
 
-- [GET all edges](docs/GETEDGES.md)
-- [GET one edge](docs/GETEDGE.md)
-- [CREATE edge](docs/CREATEEDGE.md)
-- [UPDATE edge](docs/UPDATEEDGE.md)
-- [DELETE edge](docs/DELETEEDGE.md)
+- [GET all edges](GETEDGES.md)
+- [GET one edge](GETEDGE.md)
+- [CREATE edge](CREATEEDGE.md)
+- [UPDATE edge](UPDATEEDGE.md)
+- [DELETE edge](DELETEEDGE.md)
